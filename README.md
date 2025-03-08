@@ -28,15 +28,6 @@ Bu proje, bir futbol ligi için çift devreli lig usulüne göre fikstür oluşt
 2.  Program, fikstür oluşturma işlemini gerçekleştirecek ve sonuçları ekrana yazdıracaktır.
 3.  Oluşturulan fikstür, `fikstur.txt` dosyasına kaydedilecektir.
 
-## Dosya Yapısı
-lig-fikstur-projesi/
-├── kodlar/             # Proje kodları (C dili)
-├── takimlar.txt        # 19 takımlık güncel liste
-├── fikstur.txt         # Oluşan fikstür
-├── gereksinim_analizi.docx # Gereksinim analizi dokümanı
-├── ekran_goruntuleri/   # Örnek çalıştırma sonuçları
-└── README.md           # Proje açıklaması ve kullanım talimatları
-
 ## Teslim Edilecekler
 
 *   GitHub repository (doğru ve erişilebilir olmalıdır).
